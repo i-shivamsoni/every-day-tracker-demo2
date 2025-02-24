@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "440be96140892a46",
+    "type": "split",
+    "children": [
+      {
+        "id": "93b48ad358e14783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee6ec878162e67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meal_plans/calulations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "calulations"
+            }
+          },
+          {
+            "id": "ee988ed1f504e55a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meal_plans/muskan.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "muskan.md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d09ea9a45f1c4900",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ffd6c940acbc10b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9138a070d822fb25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ff82bee3955b99e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "77e58a4265e5b129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb0bae5b571f55d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "69e867f66ee974f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b207741782e4932",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "meal/2025-01-29-meal-gym-plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-29-meal-gym-plan"
+            }
+          },
+          {
+            "id": "00bdb0d46466e445",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "meal/2025-01-29-meal-gym-plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-01-29-meal-gym-plan"
+            }
+          },
+          {
+            "id": "96a66a713ec8db9e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58990f014e9929e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "meal/2025-01-29-meal-gym-plan.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-29-meal-gym-plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ee988ed1f504e55a",
+  "lastOpenFiles": [
+    "meal_plans/Macro.md",
+    "meal_plans/muskan.md.md",
+    "meal_plans/calulations.md",
+    "meal_plans/2025-01-29-meal-gym-plan.md",
+    "meal_plans/2025-01-29-meal-plan.md",
+    "meal_plans/3300_Calories_Diet_Plan_by_Guru_Mann.pdf",
+    "Untitled.md",
+    "Untitled",
+    "meal_plans/BULK_Workout_and_Nutrition_Plan_by_Guru_Mann.pdf",
+    "meal_plans/meals.md",
+    "meal/2025-01-01-meal.md",
+    "meal_plans",
+    "meal/2025-01-04-meal.md"
+  ]
+}

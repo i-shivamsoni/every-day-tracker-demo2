@@ -1,0 +1,68 @@
+# Welcome to Jekyll!
+#
+# This config file is for site-wide settings that rarely require frequent edits.
+# If you find yourself modifying this file often, consider using Jekyll's data files.
+#
+# Note: This file is *NOT* reloaded automatically with 'bundle exec jekyll serve'.
+# Restart the server after making changes here.
+#
+# YAML syntax references:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+
+# Site settings
+title: "Every Day Tracker"
+email: "your-email@example.com"
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+
+# URL settings
+baseurl: ""  # Subpath of your site (e.g., /blog)
+url: ""  # Base hostname & protocol (e.g., http://example.com)
+
+# Social media usernames
+twitter_username: "jekyllrb"
+github_username: "jekyll"
+
+# Habit tracking colors
+habits:
+  gym: "#4A9DFF"         # Bright blue - energetic and active
+  meals: "#50C878"       # Emerald green - fresh and healthy
+  work: "#FF6B6B"        # Coral pink - productive and focused
+  reading: "#FFD93D"     # Warm yellow - knowledge and learning
+  meditation: "#9D8CFF"  # Soft purple - calm and mindful
+  sleep: "#614BC3"       # Deep purple - restful and peaceful
+
+# Future habit colors
+# writing: "#00CED1"     # Turquoise - creative and expressive
+# coding: "#FF8C42"      # Burnt orange - technical and focused
+# exercise: "#FF5E5B"    # Bright coral - dynamic and energetic
+# study: "#4ECDC4"       # Seafoam - concentration and learning
+# projects: "#45B7D1"    # Ocean blue - productive and flowing
+# finance: "#98CE00"     # Lime green - growth and prosperity
+# social: "#FF61D2"      # Magenta - interactive and engaging
+# health: "#00B4D8"      # Sky blue - wellness and vitality
+
+# Build settings
+theme: everydaytracker
+#remote_theme: i-shivamsoni/everydaytracker
+plugins:
+  - jekyll-feed
+
+
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
