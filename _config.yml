@@ -46,11 +46,11 @@ habits:
 # health: "#00B4D8"      # Sky blue - wellness and vitality
 
 # Build settings
-theme: everydaytracker
-#remote_theme: i-shivamsoni/everydaytracker
+#theme: everydaytracker
+remote_theme: i-shivamsoni/everydaytracker
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
 
 
 # Exclude from processing
